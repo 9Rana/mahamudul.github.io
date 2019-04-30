@@ -1,0 +1,72 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mahamudul.tk" resolutions="1x" timestamp="1556649346094">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="483547570" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="proxima nova bold.woff" crc="4024575948"/>
+    <file name="proxima nova bold.eot" crc="4263753075"/>
+    <file name="proxima nova bold.svg" crc="4013734862"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u3890.php" crc="306441244" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1633.png" crc="3960380045" ref="index"/>
+    <file name="u1633-r.png" crc="305679737" ref="index"/>
+    <file name="u1716.png" crc="4109251019" ref="index"/>
+    <file name="u1716-r.png" crc="184029045" ref="index"/>
+    <file name="u1695.png" crc="3772449314" ref="index"/>
+    <file name="u1695-r.png" crc="118395205" ref="index"/>
+    <file name="u1755.png" crc="4201620262" ref="index"/>
+    <file name="u1755-r.png" crc="3948389283" ref="index"/>
+    <file name="logo-u6502-fr.png" crc="153583839" ref="index"/>
+    <file name="logo.jpg" crc="84831741" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11-u6094-fr.png" crc="400549448" ref="index"/>
+    <file name="business card.jpg" crc="4166193535" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="218184529" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flayer.jpg" crc="156435546" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3287-4.png" crc="348407880" ref="index"/>
+    <file name="u3290.png" crc="4080564874" ref="index"/>
+    <file name="u3290-r.png" crc="256614824" ref="index"/>
+    <file name="img_9881.jpg" crc="171119423" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1507-9.png" crc="503122212" ref="index"/>
+    <file name="u6379-6.png" crc="331675883" ref="index"/>
+    <file name="u3881-3.png" crc="111251673" ref="index"/>
+    <file name="u3892-fs.png" crc="130512589" ref="index"/>
+    <file name="u3898-fse.png" crc="4173236372" ref="index"/>
+    <file name="u3893-fss.png" crc="4294465990" ref="index"/>
+    <file name="u3942-4.png" crc="432404555" ref="index"/>
+  </folder>
+  <file name="index.html" crc="409860903" seo="true" mt="1556649344886" redirect="true"/>
+</manifest>
